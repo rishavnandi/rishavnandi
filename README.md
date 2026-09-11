@@ -36,7 +36,7 @@ I write Python backend services and automate infrastructure. I also run a homela
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # GitHub Stats
-| <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishavnandi&theme=dark" alt="rishavnandi" /> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishavnandi&theme=dark" /> |
+| <img align="center" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="rishavnandi's GitHub stats" /> | <img align="center" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" /> |
 | --- | --- |
 
 # Socials
